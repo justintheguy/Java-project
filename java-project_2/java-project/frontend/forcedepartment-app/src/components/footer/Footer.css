@@ -1,0 +1,17 @@
+#footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: black;
+}
+
+.footer-text {
+    padding-bottom: 30px;
+}
+
+.main-page-footer {
+    margin-top: 137px;
+}
+
+.profile-page-footer {
+    margin-top: 70%;
+}

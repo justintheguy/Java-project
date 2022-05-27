@@ -1,0 +1,26 @@
+.extraMenuPoint {
+    color: #d1d6db80;
+    font-weight: normal !important;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 12px 8px 12px 16px;
+}
+
+.extraMenuPoint:hover {
+    color: white;
+}
+
+.minimumRate {
+    width: 40px !important;
+    border-radius: 4px 4px 4px 4px/5px 5px 4px 4px !important;
+    margin-left: 10px !important;
+    margin-top: 25px !important;
+    margin-bottom: 15px !important;
+}
+
+.nameSearch {
+    border-radius: 4px 4px 4px 4px/5px 5px 4px 4px !important;
+    margin-left: 10px !important;
+    margin-top: 18px !important;
+    height: 20px !important;
+}
